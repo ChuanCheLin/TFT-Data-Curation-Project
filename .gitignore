@@ -1,0 +1,38 @@
+# Ignore virtual environment
+venv/
+.env
+*.venv
+Pipfile
+Pipfile.lock
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+logs/
+*.log
+*.out
+*.tmp
+*.swp
+*.swo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files (adjust based on your needs)
+data/raw/
+data/interim/
+data/processed/
+*.csv
+*.json
+!tft_matches_example.json
+*.parquet
+
+# Ignore VSCode settings (if you're using VSCode)
+.vscode/
