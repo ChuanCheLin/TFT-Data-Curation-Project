@@ -1,0 +1,1370 @@
+{
+  "metadata": {
+    "data_version": "6",
+    "match_id": "NA1_5259227899",
+    "participants": [
+      "JX7S9DmQefkKLcgdlpz8JA5F1xP99IMQeJmHh8IUnnpHU7dWkJLjOS4bj0FkRDEiV1t84cQ4n_u8iA",
+      "_qVzWRb6dvA8NVlQb3sz9P09xyDTlJHIvW3bCCe6TkxA07OYKlvw1lZNXbjscHdEWkVoMPYsFHyPvw",
+      "Xaw_K1-b9MFAZdi5O8tuwe82UFvXBNg_Vi00baF5Z5JRt0PAMEDY4EhCqIQ0_tWbIY2jm_k9GWnfQg",
+      "whSwM9VbB5aU8wQrnEDGjDmRvQcE2SCRRVBtTCN9O-OrFLqD3B-qi-WzCeHIixo9R8ANeyqPUPF1ag",
+      "rC9fkNsc87GwPDWnjQugEwcbmONnmQM7nKHt9O1thwtLKeVjRh4xMta5sUbAhFrmVIU6DVAIqMQJLw",
+      "o4l0l6rOWNc5GrbdB3uPOCVtAeQypfRr2ecMI4pD05eWGVbql-wODatkiqGGMf1234VY4XeJCNKxQw",
+      "NgAcjuiOjq4OcISUIoMHKTb1sHDn2SKoKJjZmMzhmArFa9jtwOZZGR_vcrFUe4ey2acF0EDSi-4FVA",
+      "MpmXYjPAerPumS9ZVY8QDxsLGWMSnSa6NGaFM6gmJhtmFO26Dg-4_uxiIBIHb23ErF4EWDZHR0EYQw"
+    ]
+  },
+  "info": {
+    "endOfGameResult": "GameComplete",
+    "gameCreation": 1743732879000,
+    "gameId": 5259227899,
+    "game_datetime": 1743734945216,
+    "game_length": 2033.2320556640625,
+    "game_version": "Linux Version 15.7.670.3172 (Apr 02 2025/11:14:21) [PUBLIC] <Releases/15.7>",
+    "mapId": 22,
+    "participants": [
+      {
+        "companion": {
+          "content_ID": "b44708a1-ebac-4eff-a0fc-b4b97bbe9f3d",
+          "item_ID": 37,
+          "skin_ID": 37,
+          "species": "PetTFTAvatar"
+        },
+        "gold_left": 0,
+        "last_round": 34,
+        "level": 8,
+        "missions": {
+          "PlayerScore2": 195
+        },
+        "placement": 4,
+        "players_eliminated": 2,
+        "puuid": "JX7S9DmQefkKLcgdlpz8JA5F1xP99IMQeJmHh8IUnnpHU7dWkJLjOS4bj0FkRDEiV1t84cQ4n_u8iA",
+        "riotIdGameName": "ingan23",
+        "riotIdTagline": "NA1",
+        "time_eliminated": 1954.8817138671875,
+        "total_damage_to_players": 128,
+        "traits": [
+          {
+            "name": "TFT14_BallisTek",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Bruiser",
+            "num_units": 6,
+            "style": 4,
+            "tier_current": 3,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Cyberboss",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Divinicorp",
+            "num_units": 1,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 7
+          },
+          {
+            "name": "TFT14_EdgeRunner",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Immortal",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Mob",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Netgod",
+            "num_units": 1,
+            "style": 3,
+            "tier_current": 1,
+            "tier_total": 1
+          },
+          {
+            "name": "TFT14_Techie",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT14_Alistar",
+            "itemNames": [],
+            "name": "",
+            "rarity": 0,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Darius",
+            "itemNames": [],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Mordekaiser",
+            "itemNames": [
+              "TFT_Item_RedBuff",
+              "TFT_Item_IonicSpark",
+              "TFT_Item_NightHarvester"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Fiddlesticks",
+            "itemNames": [
+              "TFT_Item_JeweledGauntlet",
+              "TFT_Item_ArchangelsStaff",
+              "TFT_Item_ArchangelsStaff"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT14_Gragas",
+            "itemNames": [],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Chogath",
+            "itemNames": [
+              "TFT_Item_Bloodthirster",
+              "TFT_Item_Artifact_TalismanOfAscension",
+              "TFT_Item_TitansResolve"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Garen",
+            "itemNames": [
+              "TFT_Item_Leviathan",
+              "TFT_Item_Redemption"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_Kobuko",
+            "itemNames": [
+              "TFT_Item_ThiefsGloves",
+              "TFT_Item_AdaptiveHelm",
+              "TFT_Item_WarmogsArmor"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          }
+        ],
+        "win": true
+      },
+      {
+        "companion": {
+          "content_ID": "7e380438-b407-4ead-bc32-3b4df0989cd7",
+          "item_ID": 110001,
+          "skin_ID": 1,
+          "species": "PetDoughCat"
+        },
+        "gold_left": 0,
+        "last_round": 27,
+        "level": 7,
+        "missions": {
+          "PlayerScore2": 77
+        },
+        "placement": 8,
+        "players_eliminated": 0,
+        "puuid": "_qVzWRb6dvA8NVlQb3sz9P09xyDTlJHIvW3bCCe6TkxA07OYKlvw1lZNXbjscHdEWkVoMPYsFHyPvw",
+        "riotIdGameName": "kiz21",
+        "riotIdTagline": "nasty",
+        "time_eliminated": 1541.13037109375,
+        "total_damage_to_players": 53,
+        "traits": [
+          {
+            "name": "TFT14_Armorclad",
+            "num_units": 3,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_EdgeRunner",
+            "num_units": 3,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_HotRod",
+            "num_units": 4,
+            "style": 4,
+            "tier_current": 2,
+            "tier_total": 2
+          },
+          {
+            "name": "TFT14_Marksman",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 2
+          },
+          {
+            "name": "TFT14_Supercharge",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Swift",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Techie",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Thirsty",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT14_NidaleeCougar",
+            "itemNames": [],
+            "name": "",
+            "rarity": 0,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT14_Kindred",
+            "itemNames": [
+              "TFT_Item_InfinityEdge",
+              "TFT_Item_SpearOfShojin",
+              "TFT_Item_MadredsBloodrazor"
+            ],
+            "name": "",
+            "rarity": 0,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT14_Jax",
+            "itemNames": [
+              "TFT_Item_NightHarvester",
+              "TFT_Item_Redemption",
+              "TFT_Item_AdaptiveHelm"
+            ],
+            "name": "",
+            "rarity": 0,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT14_Shyvana",
+            "itemNames": [],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Jhin",
+            "itemNames": [
+              "TFT14_NaafiriCyberneticItem"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_Elise",
+            "itemNames": [
+              "TFT_Item_SpearOfShojin",
+              "TFT_Item_JeweledGauntlet",
+              "TFT_Item_RapidFireCannon"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Sejuani",
+            "itemNames": [],
+            "name": "",
+            "rarity": 4,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_SummonLevel2",
+            "itemNames": [
+              "TFT14_Item_Nitro_ChromeCounter"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 3
+          }
+        ],
+        "win": false
+      },
+      {
+        "companion": {
+          "content_ID": "4af50f78-340d-4ffb-bc60-551fdad25aa2",
+          "item_ID": 66010,
+          "skin_ID": 10,
+          "species": "PetPoro"
+        },
+        "gold_left": 2,
+        "last_round": 35,
+        "level": 8,
+        "missions": {
+          "PlayerScore2": 202
+        },
+        "placement": 1,
+        "players_eliminated": 2,
+        "puuid": "Xaw_K1-b9MFAZdi5O8tuwe82UFvXBNg_Vi00baF5Z5JRt0PAMEDY4EhCqIQ0_tWbIY2jm_k9GWnfQg",
+        "riotIdGameName": "Wokosa",
+        "riotIdTagline": "NA1",
+        "time_eliminated": 2020.064208984375,
+        "total_damage_to_players": 142,
+        "traits": [
+          {
+            "name": "TFT14_BallisTek",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Bruiser",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Divinicorp",
+            "num_units": 1,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 7
+          },
+          {
+            "name": "TFT14_Mob",
+            "num_units": 5,
+            "style": 2,
+            "tier_current": 2,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Strong",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Swift",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Thirsty",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Vanguard",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT14_Shaco",
+            "itemNames": [
+              "TFT_Item_BFSword"
+            ],
+            "name": "",
+            "rarity": 0,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_KogMaw",
+            "itemNames": [],
+            "name": "",
+            "rarity": 0,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_TwistedFate",
+            "itemNames": [
+              "TFT_Item_HextechGunblade",
+              "TFT_Item_GuinsoosRageblade",
+              "TFT_Item_RapidFireCannon"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT14_Darius",
+            "itemNames": [
+              "TFT_Item_IonicSpark",
+              "TFT_Item_NightHarvester",
+              "TFT_Item_WarmogsArmor"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT14_Skarner",
+            "itemNames": [
+              "TFT_Item_RedBuff",
+              "TFT_Item_FrozenHeart",
+              "TFT_Item_WarmogsArmor"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT14_Braum",
+            "itemNames": [
+              "TFT_Item_WarmogsArmor",
+              "TFT_Item_Redemption",
+              "TFT_Item_FrozenHeart"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Gragas",
+            "itemNames": [
+              "TFT_Item_WarmogsArmor"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_MissFortune",
+            "itemNames": [
+              "TFT_Item_InfinityEdge",
+              "TFT_Item_PowerGauntlet",
+              "TFT_Item_SpearOfShojin"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          }
+        ],
+        "win": true
+      },
+      {
+        "companion": {
+          "content_ID": "2f5ab920-e2dd-4f92-8f24-db1c2361f9b5",
+          "item_ID": 48001,
+          "skin_ID": 1,
+          "species": "PetChibiAshe"
+        },
+        "gold_left": 0,
+        "last_round": 31,
+        "level": 8,
+        "missions": {
+          "PlayerScore2": 89
+        },
+        "placement": 7,
+        "players_eliminated": 0,
+        "puuid": "whSwM9VbB5aU8wQrnEDGjDmRvQcE2SCRRVBtTCN9O-OrFLqD3B-qi-WzCeHIixo9R8ANeyqPUPF1ag",
+        "riotIdGameName": "ChilledHoshiyomi",
+        "riotIdTagline": "NA1",
+        "time_eliminated": 1779.6002197265625,
+        "total_damage_to_players": 57,
+        "traits": [
+          {
+            "name": "TFT14_Armorclad",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_BallisTek",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Bruiser",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Controller",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Cutter",
+            "num_units": 5,
+            "style": 4,
+            "tier_current": 4,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Divinicorp",
+            "num_units": 3,
+            "style": 2,
+            "tier_current": 3,
+            "tier_total": 7
+          },
+          {
+            "name": "TFT14_EdgeRunner",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Overlord",
+            "num_units": 1,
+            "style": 3,
+            "tier_current": 1,
+            "tier_total": 1
+          },
+          {
+            "name": "TFT14_StreetDemon",
+            "num_units": 3,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT14_Ekko",
+            "itemNames": [],
+            "name": "",
+            "rarity": 1,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_Rengar",
+            "itemNames": [
+              "TFT_Item_Bloodthirster",
+              "TFT_Item_TitansResolve",
+              "TFT_Item_UnstableConcoction"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT14_Varus",
+            "itemNames": [
+              "TFT_Item_PowerGauntlet",
+              "TFT_Item_JeweledGauntlet",
+              "TFT_Item_Morellonomicon"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT14_Gragas",
+            "itemNames": [],
+            "name": "",
+            "rarity": 2,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_Neeko",
+            "itemNames": [
+              "TFT_Item_NightHarvester",
+              "TFT_Item_Morellonomicon"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_Vex",
+            "itemNames": [],
+            "name": "",
+            "rarity": 4,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_Renekton",
+            "itemNames": [
+              "TFT14_Item_CutterEmblemItem",
+              "TFT_Item_UnstableConcoction",
+              "TFT_Item_GuinsoosRageblade"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_Urgot",
+            "itemNames": [],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          }
+        ],
+        "win": false
+      },
+      {
+        "companion": {
+          "content_ID": "cefc451a-9c00-40cd-9c04-fbf50d8ddf7a",
+          "item_ID": 27042,
+          "skin_ID": 42,
+          "species": "PetChoncc"
+        },
+        "gold_left": 35,
+        "last_round": 35,
+        "level": 8,
+        "missions": {
+          "PlayerScore2": 202
+        },
+        "placement": 3,
+        "players_eliminated": 0,
+        "puuid": "rC9fkNsc87GwPDWnjQugEwcbmONnmQM7nKHt9O1thwtLKeVjRh4xMta5sUbAhFrmVIU6DVAIqMQJLw",
+        "riotIdGameName": "SkywalkerLin",
+        "riotIdTagline": "NA1",
+        "time_eliminated": 2018.8116455078125,
+        "total_damage_to_players": 137,
+        "traits": [
+          {
+            "name": "TFT14_AnimaSquad",
+            "num_units": 2,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Divinicorp",
+            "num_units": 1,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 7
+          },
+          {
+            "name": "TFT14_EdgeRunner",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Immortal",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Marksman",
+            "num_units": 4,
+            "style": 4,
+            "tier_current": 2,
+            "tier_total": 2
+          },
+          {
+            "name": "TFT14_Mob",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_StreetDemon",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Strong",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Thirsty",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Vanguard",
+            "num_units": 4,
+            "style": 2,
+            "tier_current": 2,
+            "tier_total": 3
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT14_Jhin",
+            "itemNames": [],
+            "name": "",
+            "rarity": 1,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_Rhaast",
+            "itemNames": [
+              "TFT4_Item_OrnnRanduinsSanctum",
+              "TFT_Item_GiantsBelt"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Jinx",
+            "itemNames": [],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Braum",
+            "itemNames": [
+              "TFT_Item_RedBuff",
+              "TFT_Item_FrozenHeart",
+              "TFT_Item_Redemption"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Jarvan",
+            "itemNames": [
+              "TFT_Item_SteraksGage",
+              "TFT_Item_DragonsClaw"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Xayah",
+            "itemNames": [
+              "TFT_Item_Deathblade",
+              "TFT_Item_GuinsoosRageblade",
+              "TFT_Item_LastWhisper"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Leona",
+            "itemNames": [
+              "TFT_Item_WarmogsArmor",
+              "TFT_Item_WarmogsArmor",
+              "TFT_Item_DragonsClaw"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Aphelios",
+            "itemNames": [
+              "TFT_Item_HextechGunblade",
+              "TFT_Item_InfinityEdge",
+              "TFT_Item_GuinsoosRageblade"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          }
+        ],
+        "win": true
+      },
+      {
+        "companion": {
+          "content_ID": "1aa131be-707d-45b5-ab50-e97399349421",
+          "item_ID": 89002,
+          "skin_ID": 2,
+          "species": "PetChibiKatarina"
+        },
+        "gold_left": 31,
+        "last_round": 35,
+        "level": 9,
+        "missions": {
+          "PlayerScore2": 202
+        },
+        "placement": 2,
+        "players_eliminated": 1,
+        "puuid": "o4l0l6rOWNc5GrbdB3uPOCVtAeQypfRr2ecMI4pD05eWGVbql-wODatkiqGGMf1234VY4XeJCNKxQw",
+        "riotIdGameName": "foxtrot",
+        "riotIdTagline": "NA4",
+        "time_eliminated": 2018.611328125,
+        "total_damage_to_players": 128,
+        "traits": [
+          {
+            "name": "TFT14_AnimaSquad",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Bruiser",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Controller",
+            "num_units": 4,
+            "style": 2,
+            "tier_current": 3,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Cyberboss",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_EdgeRunner",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Immortal",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_StreetDemon",
+            "num_units": 3,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Supercharge",
+            "num_units": 3,
+            "style": 2,
+            "tier_current": 2,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Techie",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_ViegoUniqueTrait",
+            "num_units": 1,
+            "style": 3,
+            "tier_current": 1,
+            "tier_total": 1
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT14_Ekko",
+            "itemNames": [],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Mordekaiser",
+            "itemNames": [],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Yuumi",
+            "itemNames": [],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Neeko",
+            "itemNames": [],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Ziggs",
+            "itemNames": [
+              "TFT_Item_RabadonsDeathcap",
+              "TFT_Item_JeweledGauntlet",
+              "TFT_Item_PowerGauntlet"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Annie",
+            "itemNames": [
+              "TFT_Item_Leviathan",
+              "TFT_Item_BlueBuff",
+              "TFT_Item_AdaptiveHelm"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Samira",
+            "itemNames": [
+              "TFT_Item_LastWhisper",
+              "TFT_Item_StatikkShiv",
+              "TFT_Item_PowerGauntlet"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Kobuko",
+            "itemNames": [
+              "TFT_Item_RedBuff",
+              "TFT_Item_IonicSpark",
+              "TFT_Item_DragonsClaw"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Viego",
+            "itemNames": [],
+            "name": "",
+            "rarity": 6,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Kobuko",
+            "itemNames": [
+              "TFT_Item_Bloodthirster"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          }
+        ],
+        "win": true
+      },
+      {
+        "companion": {
+          "content_ID": "7e380438-b407-4ead-bc32-3b4df0989cd7",
+          "item_ID": 110001,
+          "skin_ID": 1,
+          "species": "PetDoughCat"
+        },
+        "gold_left": 2,
+        "last_round": 33,
+        "level": 9,
+        "missions": {
+          "PlayerScore2": 94
+        },
+        "placement": 6,
+        "players_eliminated": 1,
+        "puuid": "NgAcjuiOjq4OcISUIoMHKTb1sHDn2SKoKJjZmMzhmArFa9jtwOZZGR_vcrFUe4ey2acF0EDSi-4FVA",
+        "riotIdGameName": "godp3",
+        "riotIdTagline": "Joner",
+        "time_eliminated": 1882.90625,
+        "total_damage_to_players": 87,
+        "traits": [
+          {
+            "name": "TFT14_AnimaSquad",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Armorclad",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_EdgeRunner",
+            "num_units": 3,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_HotRod",
+            "num_units": 4,
+            "style": 4,
+            "tier_current": 2,
+            "tier_total": 2
+          },
+          {
+            "name": "TFT14_Marksman",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 2
+          },
+          {
+            "name": "TFT14_Netgod",
+            "num_units": 1,
+            "style": 3,
+            "tier_current": 1,
+            "tier_total": 1
+          },
+          {
+            "name": "TFT14_Supercharge",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Swift",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Techie",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Thirsty",
+            "num_units": 3,
+            "style": 2,
+            "tier_current": 2,
+            "tier_total": 3
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT14_NidaleeCougar",
+            "itemNames": [],
+            "name": "",
+            "rarity": 0,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Kindred",
+            "itemNames": [],
+            "name": "",
+            "rarity": 0,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT14_Shyvana",
+            "itemNames": [
+              "TFT_Item_Redemption",
+              "TFT5_Item_NightHarvesterRadiant",
+              "TFT_Item_Crownguard"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT14_Jhin",
+            "itemNames": [
+              "TFT_Item_SpearOfShojin",
+              "TFT_Item_InfinityEdge",
+              "TFT_Item_LastWhisper"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT14_Naafiri",
+            "itemNames": [],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Elise",
+            "itemNames": [],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Sejuani",
+            "itemNames": [
+              "TFT_Item_FrozenHeart",
+              "TFT_Item_IonicSpark",
+              "TFT14_SejuaniCyberneticItem"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_Garen",
+            "itemNames": [
+              "TFT_Item_ChainVest"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_Aurora",
+            "itemNames": [
+              "TFT_Item_JeweledGauntlet",
+              "TFT_Item_RapidFireCannon",
+              "TFT_Item_SpearOfShojin"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_SummonLevel2",
+            "itemNames": [
+              "TFT14_Item_Nitro_ChromeCounter"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 3
+          }
+        ],
+        "win": false
+      },
+      {
+        "companion": {
+          "content_ID": "fa3013eb-30e6-45e5-b5a8-ef8b2dc94ef0",
+          "item_ID": 105002,
+          "skin_ID": 2,
+          "species": "PetChibiZoe"
+        },
+        "gold_left": 5,
+        "last_round": 33,
+        "level": 9,
+        "missions": {
+          "PlayerScore2": 94
+        },
+        "placement": 5,
+        "players_eliminated": 0,
+        "puuid": "MpmXYjPAerPumS9ZVY8QDxsLGWMSnSa6NGaFM6gmJhtmFO26Dg-4_uxiIBIHb23ErF4EWDZHR0EYQw",
+        "riotIdGameName": "werty0u",
+        "riotIdTagline": "NA1",
+        "time_eliminated": 1879.751953125,
+        "total_damage_to_players": 110,
+        "traits": [
+          {
+            "name": "TFT14_AnimaSquad",
+            "num_units": 3,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          },
+          {
+            "name": "TFT14_Bruiser",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Divinicorp",
+            "num_units": 2,
+            "style": 2,
+            "tier_current": 2,
+            "tier_total": 7
+          },
+          {
+            "name": "TFT14_HotRod",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 2
+          },
+          {
+            "name": "TFT14_Mob",
+            "num_units": 3,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Thirsty",
+            "num_units": 4,
+            "style": 4,
+            "tier_current": 3,
+            "tier_total": 3
+          },
+          {
+            "name": "TFT14_Vanguard",
+            "num_units": 4,
+            "style": 2,
+            "tier_current": 2,
+            "tier_total": 3
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT14_Morgana",
+            "itemNames": [],
+            "name": "",
+            "rarity": 0,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_Sylas",
+            "itemNames": [],
+            "name": "",
+            "rarity": 0,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Darius",
+            "itemNames": [],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Rhaast",
+            "itemNames": [],
+            "name": "",
+            "rarity": 1,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_Braum",
+            "itemNames": [
+              "TFT_Item_IonicSpark",
+              "TFT_Item_BrambleVest",
+              "TFT_Item_Bloodthirster"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Elise",
+            "itemNames": [],
+            "name": "",
+            "rarity": 2,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT14_MissFortune",
+            "itemNames": [
+              "TFT_Item_InfinityEdge",
+              "TFT_Item_PowerGauntlet",
+              "TFT_Item_MadredsBloodrazor"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Leona",
+            "itemNames": [
+              "TFT_Item_SpectralGauntlet",
+              "TFT_Item_RedBuff",
+              "TFT_Item_GargoyleStoneplate"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT14_Aurora",
+            "itemNames": [
+              "TFT_Item_GuinsoosRageblade",
+              "TFT_Item_JeweledGauntlet",
+              "TFT4_Item_OrnnZhonyasParadox"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 2
+          }
+        ],
+        "win": false
+      }
+    ],
+    "queueId": 1100,
+    "queue_id": 1100,
+    "tft_game_type": "standard",
+    "tft_set_core_name": "TFTSet14",
+    "tft_set_number": 14
+  }
+}

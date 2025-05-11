@@ -30,7 +30,6 @@ data/raw/
 data/interim/
 data/processed/
 *.csv
-*.json
 !tft_matches_example.json
 *.parquet
 *.zip
