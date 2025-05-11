@@ -29,8 +29,7 @@ logs/
 data/raw/
 data/interim/
 data/processed/
-*.csv
-!tft_matches_example.json
+*tft_matches.json
 *.parquet
 *.zip
 
