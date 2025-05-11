@@ -1,0 +1,7 @@
+{
+  "generated_at": "2025-05-11T08:31:21.570508+00:00",
+  "input_file": "tft_units_long.*",
+  "output_file": "tft_units_long_clean.csv.gz",
+  "rows": 3102,
+  "unmatched": 0
+}
