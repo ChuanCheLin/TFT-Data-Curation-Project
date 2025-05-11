@@ -18,7 +18,6 @@ The goal is to demonstrate a complete data lifecycle:
 - `notebooks/` – Interactive EDA and analysis notebooks
 
 
-
 ## 📌 Current Dataset
 
 | Item                | Value                                  |
@@ -44,6 +43,17 @@ For long-term preservation and citation, a **Zenodo sandbox deposit** may be cre
 
 The current version does not include sensitive data or identifiers (only Riot PUUIDs), and it complies with Riot’s personal-use API policy.
 
+## Linux one-command setup
+
+**Clone & create virtual environment**
+
+   ```bash
+   git clone https://github.com/ChuanCheLin/TFT-Data-Curation-Project.git
+   cd TFT-Data-Curation
+   python -m venv .venv
+   source .venv/bin/activate
+   pip install -r requirements.txt
+  ```
 ---
 
 ## 🏷️ Citation & DOI
