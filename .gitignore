@@ -33,6 +33,7 @@ data/processed/
 *.parquet
 *.zip
 *.tgz
+*.gz
 
 # Ignore VSCode settings
 .vscode/
