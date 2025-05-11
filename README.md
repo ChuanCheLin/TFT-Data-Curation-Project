@@ -9,13 +9,14 @@ The goal is to demonstrate a complete data lifecycle:
 - Enable reproducibility via version-controlled code
 
 ## 📁 Folder Structure
-# Raw match JSONs, organized by date and patch
-curated/ # Cleaned player-level CSV
-docs/
-├── README.md
-├── data_dictionary.md
-└── retrieval_log.csv
-notebooks/ # Interactive EDA and analysis notebooks
+- `raw/` – Raw match JSONs, organized by date and patch
+- `curated/` – Cleaned player-level CSV
+- `docs/` – Project documentation
+  - `README.md`
+  - `data_dictionary.md`
+  - `retrieval_log.csv`
+- `notebooks/` – Interactive EDA and analysis notebooks
+
 
 
 ## 📌 Current Dataset
