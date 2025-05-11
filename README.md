@@ -46,4 +46,12 @@ The current version does not include sensitive data or identifiers (only Riot PU
 
 ---
 
+## 🏷️ Citation & DOI
+
+A snapshot of the curated dataset has been deposited in the Zenodo sandbox for long-term preservation:
+
+> **DOI:** [10.5072/zenodo.222281](https://sandbox.zenodo.org/records/222281)
+
+Please note this DOI is valid only within the Zenodo *sandbox* environment; a formal DOI can be minted later on the production Zenodo site once the dataset is finalized.
+
 For questions, contact: **Chuan-Che Lin** **diamond16888@gmail.com**

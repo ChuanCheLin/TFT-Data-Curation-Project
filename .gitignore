@@ -33,6 +33,7 @@ data/processed/
 *.json
 !tft_matches_example.json
 *.parquet
+*.zip
 
 # Ignore VSCode settings
 .vscode/
